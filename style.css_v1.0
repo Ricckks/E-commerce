@@ -1,0 +1,237 @@
+.Head {
+
+
+position: relative;
+color: white;
+top: 59px;
+left: 100px;
+
+
+}
+
+
+
+#Prodp {
+
+
+position: relative;
+left: 300px;
+top: 25px;
+color:white;
+
+
+}   
+
+#Prodpe {
+
+    position: relative;
+    left: 485px;
+    top:  -10px;
+    color:white;
+
+} 
+
+#PesquisaT {
+
+position: relative;
+    left: 550px;
+    top: -79px;
+    color: black;
+    
+
+}
+
+input {
+    border-style: groove;
+    border-radius: 20px;
+    height: 30px;
+}
+
+button {
+
+background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 100px;
+  width: 110px;
+  height: 40px;
+  
+
+}
+
+
+
+header  {
+
+background-color: blue;
+background-size: auto;
+
+ }
+
+ ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1e9e9;
+  }
+  
+  li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color on hover */
+  li a:hover {
+    background-color: #555;
+    color: white;
+  }
+
+  .active {
+    background-color: #4CAF50;
+    color: white;
+  }
+
+#prod1 {
+
+position: relative;
+height: 300px;
+width: 100px;
+opacity: 1.0;
+
+}
+
+#Produtos1  {
+
+position: relative;
+bottom: 600px;
+left: 250px;
+
+}
+
+#legendaprod1  {
+
+position: relative;
+margin-top: 10px;
+left: 120px;
+
+}
+
+#Prod2 {
+position: relative;
+height: 300px;
+width: 100px;
+opacity: 1.0;
+position: relative;
+bottom: 320px;
+left: 330px;
+
+}
+
+#legendaprod2  {
+
+    position: relative;
+    margin-top: 5px;
+    left: 90px;
+    
+    }
+
+#Navpag  {
+
+position: relative;
+left: 90%;
+
+
+}
+
+#Teste1 {
+
+position: relative;
+height: 10px;
+width: 10px;
+
+}
+
+#Teste2 {
+
+    position: relative;
+    height: 11px;
+    width: 10px;
+    bottom: 30px;
+    left: 40px;
+    
+    
+    }
+
+footer {
+
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    background-color: lightsteelblue;
+    position: relative;
+    top: 1000px;
+    
+}
+
+#rodape1 {
+position: relative;
+right: 450px;
+
+}
+
+#rodape2 {
+
+position: relative;
+right: 50px;
+bottom: 110px;
+
+}
+
+#rodape3 {
+
+position: relative;
+left: 380px;
+bottom: 220px;
+
+}
+
+#rodape4 {
+position: relative;
+bottom: 180px;
+}
+
+#redes1 {
+
+position: relative;
+bottom: 180px;
+
+}
+
+#redes2 {
+
+position: relative;
+bottom: 160px;
+    
+    }
+
+#redes3 {
+
+position: relative;
+bottom: 140px;
+        
+}
+
+#Rodapefim {
+
+    position: relative;
+    bottom: 100px;
+            
+    }
+    
